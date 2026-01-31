@@ -1,18 +1,21 @@
 # Olá, eu sou o Rafaell Graciliano! 👋
 
-Especialista em Segurança Eletrônica com transição sólida para Infraestrutura de TI e Segurança Cibernética. Com mais de 5 anos de experiência técnica, hoje atuo na supervisão de monitoramento e suporte N2, unindo o mundo do CFTV IP com a administração de redes e virtualização.
+Especialista em Segurança Eletrônica em transição para Infraestrutura de TI e Segurança Cibernética. Atualmente sou acadêmico de **Análise e Desenvolvimento de Sistemas (2º Semestre)**, unindo o conhecimento de software com uma sólida experiência em hardware e redes.
+
+## 🎓 Formação Acadêmica
+- **Graduação:** Análise e Desenvolvimento de Sistemas - 2º Semestre.
 
 ## 🛠️ Experiência Profissional
 - **Supervisão & Suporte N2:** Atuação conjunta com TI N2 e suporte técnico avançado para equipes de campo.
 - **Sistemas de Monitoramento:** Domínio de plataformas **MONI**, **iVMS** e **ISS**.
 - **Segurança Eletrônica:** Especialista em CFTV (Intelbras, Hikvision, Dahua), Controle de Acesso e Alarmes (JFL, ViaWeb).
-- **Trajetória:** 3 anos como técnico de campo (Tecnologia IP) e 2 anos em Brasília na manutenção de sistemas críticos.
+- **Trajetória:** 5 anos de experiência técnica, com passagens por Brasília na manutenção de sistemas críticos e tecnologia IP.
 
 ## 🚀 Meu Lab de Estudo (Homelab)
-Atualmente mantenho um laboratório focado em simular ambientes corporativos reais:
-- **Hipervisor:** Proxmox VE 7.x
-- **Redes:** Firewall virtualizado com OpenWrt
-- **Segurança:** Proteção contra DDoS e VPN WireGuard
+Simulo ambientes corporativos reais para aplicar os conceitos da faculdade:
+- **Hipervisor:** Proxmox VE 7.x 
+- **Redes:** Firewall virtualizado com OpenWrt (Mitigação de DDoS)
+- **Segurança:** VPN WireGuard & Hardening de redes
 - **Cloud:** Integração híbrida com Oracle Cloud (Always Free)
 
 ## 🧰 Tecnologias e Ferramentas
@@ -25,9 +28,10 @@ Atualmente mantenho um laboratório focado em simular ambientes corporativos rea
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rgraciliano23-cmyk&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rgraciliano23-cmyk&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas de Commits" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgraciliano23-cmyk&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
