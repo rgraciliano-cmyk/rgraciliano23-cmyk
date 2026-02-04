@@ -6,7 +6,7 @@ Especialista em Segurança Eletrônica em transição para Infraestrutura de TI 
 - **Graduação:** Análise e Desenvolvimento de Sistemas - 2º Semestre.
 
 ## 🛠️ Experiência Profissional
-- **Supervisão & Suporte N2:** Atuação conjunta com TI N2 e suporte técnico avançado para equipes de campo.
+- **Supervisão & Suporte N2:** Atuação conjunta com TI N1 e suporte técnico avançado para equipes de campo.
 - **Sistemas de Monitoramento:** Domínio de plataformas **MONI**, **iVMS** e **ISS**.
 - **Segurança Eletrônica:** Especialista em CFTV (Intelbras, Hikvision, Dahua), Controle de Acesso e Alarmes (JFL, ViaWeb).
 - **Trajetória:** 5 anos de experiência técnica, com passagens por Brasília na manutenção de sistemas críticos e tecnologia IP.
@@ -30,9 +30,9 @@ Simulo ambientes corporativos reais para aplicar os conceitos da faculdade:
 
 ## 📊 Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rgraciliano23-cmyk&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas de Commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rgraciliano-cmyk&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas de Commits" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgraciliano23-cmyk&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgraciliano-cmyk&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ## 📫 Conecte-se comigo
