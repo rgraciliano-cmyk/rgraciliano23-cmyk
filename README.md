@@ -2,7 +2,7 @@
 
 **Analista de Infraestrutura Júnior | Supervisor tecnico | Acadêmico de ADS (2/5)**
 
-Profissional com 5 anos de bagagem técnica em sistemas críticos e tecnologia IP, atualmente focado em **Infraestrutura de TI e Segurança Cibernética**. Especializado em prover suporte N2 e gerenciar ambientes de alta disponibilidade, unindo o desenvolvimento de software (ADS) com a prática de virtualização e redes.
+Profissional com 5 anos de bagagem técnica em sistemas críticos e tecnologia IP, atualmente focado em **Infraestrutura de TI e Segurança Cibernética**. Especializado em prover suporte N1 e gerenciar ambientes de alta disponibilidade, unindo o desenvolvimento de software (ADS) com a prática de virtualização e redes.
 
 ---
 
