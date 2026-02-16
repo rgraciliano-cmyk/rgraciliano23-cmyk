@@ -18,8 +18,8 @@ Profissional com 5 anos de bagagem técnica em sistemas críticos e tecnologia I
 </p>
 
 ## 🚀 Projetos em Destaque
-* **[Automação de Backup Híbrido](https://github.com/rgraciliano23-cmyk/infra-backup-automation):** Script em Python para backup automatizado via SSH/SFTP (Porta 22) com gestão de retenção e notificações SMTP.
-* **[Hardening de Firewall OpenWrt](https://github.com/rgraciliano23-cmyk/homelab):** Implementação de regras de mitigação de ataques DDoS e Rate Limiting em ambiente virtualizado.
+* **[Automação de Backup Híbrido](https://github.com/rgraciliano-cmyk/infra-backup-automation):** Script em Python para backup automatizado via SSH/SFTP (Porta 22) com gestão de retenção e notificações SMTP.
+* **[Hardening de Firewall OpenWrt](https://github.com/rgraciliano-cmyk/homelab):** Implementação de regras de mitigação de ataques DDoS e Rate Limiting em ambiente virtualizado.
 * **[Monitoramento Zabbix]:** Dashboards para acompanhamento de saúde de hardware (Dell PowerEdge) e serviços Cloud.
 
 ## 🛠️ Experiência & Atuação
